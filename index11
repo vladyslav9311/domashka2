@@ -1,1 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.15">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body class="body">
 
+    <div class="head">
+    <header class="menu_all">
+        
+        <nav class="menu_nav">
+        <p class="menu" id="logo"  <a href="/"><span style="color: #2196F3;">Web</span>Studio</p></a>
+
+        <p class="menu" id="menu_stud">Студия</p>
+
+        <p class="menu" id="menu_port">Портфолио</p>
+
+        <p class="menu" id="menu_kont">Контакты</p>
+        </nav>
+
+        <p class="email1">info@devstudio.com</p>
+
+        <p class="tel1">+38 096 111 11 11</p>
+        
+
+    </header>
+</div>
+<main>
+    <border-box id="banner1">
+        
+</button>
+    </border-box>
+
+
+</div>
+
+<div>
+
+    <!-- Наши преимущества -->
+
+    <div class="text_box_all">
+        <border-box class="text_box">
+        <p style="font-weight: bold;">Внимание к деталям</p>
+        <p>Идейные соображения, а также начало повседневной работы по формированию позиции.</p>
+        </border-box>
+        <border-box class="text_box">
+        <p style="font-weight: bold;">Пунктуальность</p>
+        <p>Задача организации, в особенности же рамки и место обучения кадров влечет за собой.</p>
+        </border-box>
+        <border-box class="text_box">
+        <p style="font-weight: bold;">Планирование</p>
+        <p>Равным образом консультация с широким активом в значительной степени обуславливает.</p>
+        </border-box>
+        <border-box class="text_box">
+        <p style="font-weight: bold;">Современные технологии</p>
+        <p>Значимость этих проблем настолько очевидна, что реализация плановых заданий.</p>
+        </border-box>
+        
+    </div>
+   
+<h3 class="zagolovok">Чем мы занимаемся</h3>
+<div>
+
+<img class="inwork" src="images_11/img1.png" alt="услуга1"/>
+<img class="inwork" src="images_11/img2.png" alt="услуга2">
+<img class="inwork" src="images_11/img3.png" alt="услуга3">
+
+</div>
+
+<h3 class="zagolovok" id="our_team">Наша команда</h3>
+<section id="komanda">
+
+<div class="box" style="
+background: #F5F4FA">
+
+
+<border-box class="card" id="card1">
+    <img class="card-img-top" src="images_11/igor1.jpg" alt="сотрудник Игорь, дизайнер">
+    <h5>Игорь Демьяненко</h5>
+    <p>Product Designer</p>
+</border-box>
+
+  <border-box class="card" id="card2">
+    <img class="card-img-top" src="images_11/olga2.jpg" alt="сотрудник Ольга, разработчик">
+    <h5>Ольга Репина</h5>
+    <p>Frontend Developer</p>
+</border-box>
+
+<border-box class="card" id="card3">
+    <img class="card-img-top" src="images_11/nicolaj3.jpg" alt="сотрудник Николай, маркетинг">
+    <h5>Николай Тарасов</h5>
+    <p>Marketing</p>
+</border-box>
+ 
+    <border-box class="card" id="card4">
+    <img class="card-img-top" src="images_11/michal4.jpg" alt="сотрудник Михаил, дизайнер">
+    <h5>Михаил Ермаков</h5>
+    <p>UI Designer</p>
+</border-box>
+</section>
+        
+  
+</div>
+</main>
+
+<footer  class="footer">
+    <p class="footer_txt"><span style="color: #2196F3;">Web</span>Studio</p>
+    <address class="footer_txt">г.Киев ул.Безулицы</address>
+    <p class="footer_txt">info@example.com</p>
+    <p class="footer_txt" 111 111 11 11</p>
+</footer>
+
+</body>
+</html>

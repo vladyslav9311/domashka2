@@ -1,0 +1,173 @@
+.body {
+    display: block;
+    margin: auto;
+    width: 1600px;
+    height: 2350px;
+position: center;
+}
+
+/* ХЕДЕР */
+
+.head {
+    width: 1600px;
+    height: 80px;
+
+    background: #FFFFFF;
+}
+.menu_all {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu_nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#logo {
+    color: #000;
+        
+        width: 145px;
+        height: 31px;
+        left: 215px;
+        top: 24px;
+}
+
+#menu_stud {
+    margin-left: 93px;
+    width: 49px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+}
+#menu_port {
+    margin-left: 50px;
+        width: 77px;
+        height: 16px;
+        left: 552px;
+        top: 32px;
+}
+#menu_kont {
+    margin-left: 50px;
+        width: 68px;
+        height: 16px;
+        left: 679px;
+        top: 32px;
+}
+.email1 {
+    
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+}
+.tel1 {
+    
+        width: 122px;
+        height: 16px;
+        left: 1263px;
+        top: 32px;
+}
+/* БАННЕР */
+#banner1 {
+    width: 1600px;
+    height: 600px;
+    background-color:  gray;
+}
+
+/* Текст на баннере */
+#textb {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+#button1 {
+    background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+width: 200px;
+height: 50px;
+}
+
+
+
+/* НАШИ ПРЕИМУЩЕСТВА */
+.text_box {
+margin-left: 30px;
+}
+.text_box_all {
+    margin-left: 215px;
+    margin-right: 215px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 94px;
+}
+
+
+/* Что мы делаем */
+.zagolovok {
+    margin-top: 93px;
+    margin-bottom: 50px;
+}
+
+
+/* КАРТОЧКИ */
+#our_team {
+    margin-top: 188px;
+}
+#komanda {
+    background-color: gray;
+    margin-top: 94px;
+    width: 1600px;
+    height: 648px;
+}
+.card {
+    background: #FFFFFF;
+    height: 368px; 
+    width: 270px;
+    
+
+}
+
+.card-img-top {
+    width: 260px; height: 270px;
+}
+
+.box {
+    display: flex;
+    
+    justify-content: space-evenly;
+    width: 260px; height: 270px
+}
+
+#card1 {
+    margin-left: 215px;
+}
+#card2 {
+    margin-left: 30px;
+}
+#card3 {
+    margin-left: 30px;
+}
+#card4 {
+    margin-left: 30px;
+}
+
+
+/* FOOTER */
+.footer {
+    margin-top: 94px;
+    background-color: #2F303A;
+}
+.footer_txt {
+    color: #FFFFFF;
+}
+#footer {
+    color: #2F303A;
+    width: 1600px;
+    height: 252px;
+    
+}
